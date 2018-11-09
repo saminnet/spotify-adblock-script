@@ -4,7 +4,7 @@
 <h3>Installation</h3>
 
 ```bash
-  git clone https://address
+  git clone https://github.com/saminnet/spotify-adblock-script.git
   cd spotify-adblock-script
   sudo chmod u+x adblock.sh
   sudo ./adblock.sh
