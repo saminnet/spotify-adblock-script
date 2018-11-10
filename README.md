@@ -1,7 +1,7 @@
 <h1 align="center">Spotify Adblock Script</h1>
 <p align="center">Let's enjoy listening to spotify ad free 😂🎉</p>
 
-##Installation
+## Installation
 
 ```bash
   $ git clone https://github.com/saminnet/spotify-adblock-script.git
