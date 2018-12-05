@@ -10,7 +10,15 @@
   $ sudo ./adblock.sh
 ```
 
-If you want to modify/add/remove any address to the blocker just edit `block.txt` file.
+## Removing
+
+```bash
+  $ sudo chmod u+x remove_adblock.sh
+  $ sudo ./remove_adblock.sh
+```
+
+If you want to modify/add/remove any url to the blocker just edit `block.txt`
+file.
 
 ## License
 
